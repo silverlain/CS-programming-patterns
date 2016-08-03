@@ -1,1 +1,1 @@
-# CS-programming-patterns
+# IT-Programming-Patterns
