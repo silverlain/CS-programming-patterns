@@ -1,3 +1,2 @@
-# IT-Patterns-Architecture
-Patterns are a reusable solution to a commonly occuring problem within a given context in software design.
-Architectures are a coherent and consistent approach to delivery of IT capabilities.
+# IT-4-Patterns
+This repository documents design patterns, which are commonly implemented best programming practices for solving a particular problem within a specific framework or set of similar frameworks.
